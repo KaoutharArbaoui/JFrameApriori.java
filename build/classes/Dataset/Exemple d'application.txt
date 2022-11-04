@@ -1,0 +1,5 @@
+milk,butter,oranges,egg
+coffee,butter,egg
+milk,coffee,butter,egg
+coffee,egg
+milk,butter,egg
